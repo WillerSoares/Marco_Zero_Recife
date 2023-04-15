@@ -1,0 +1,28 @@
+.title {
+  font-style: italic;
+  background-color: aquamarine;
+  text-align: center;
+}
+
+.caixa {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color:aqua;
+  text-align:center;
+  margin: 30px;
+}
+
+.text {
+  background-color:beige;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  height: auto;
+  width: auto;
+  margin: 30px;
+}
+
+ul, li {
+  text-align: center;
+}
+
+.img {
+  text-align: center;
+}
